@@ -22,7 +22,7 @@ To set a particular Logo for your React Native application, follow the following
 
 And to change the name of application, go to YourProject\android\app\src\main\res\values, open strings.xml file and set your desired name against "name" variable.<br>
 Styling of all screens has been done in a seperate file names as Stylo.js.<br>
-<br><br><br><br><br><br><br><br><br><br>>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 # Screens:
 ## Loading Screen:
@@ -33,9 +33,9 @@ When application opens, a Loading screen appears for few seconds without any sta
 ## Login Screen:
 <img src="https://user-images.githubusercontent.com/63854449/104359348-5d2e3580-5531-11eb-9ff9-04221b2fc402.JPG" align="left" width="300" height="480" >
 After loading of few seconds, a Login screen appears for the user.<br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-## Registration Screen
+## Registration Screen:
 <img src="https://user-images.githubusercontent.com/63854449/104359657-c150f980-5531-11eb-9ab0-bf58cdfed4ce.JPG" align="left" width="300" height="480" >
 And if user is not already registered, then he/she can move towards the Registration Screen.<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

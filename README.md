@@ -15,7 +15,7 @@ And then installed Firebase, Vector Icons & async-storage by following commands<
 # Project Structure:
 Currently, this application contains total 12 screen components with the following folder structure.
 <img src="https://user-images.githubusercontent.com/63854449/102757151-b40d7880-4392-11eb-8eb5-58c62299b77a.jpg" align="left" width="1000" height="380" >
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Logo & Title:
 <img src="https://user-images.githubusercontent.com/63854449/102753096-6f7ede80-438c-11eb-9d0b-8f206b569932.JPG" align="left" width="300" height="480" >
@@ -25,7 +25,7 @@ To set a particular Logo for your React Native application, follow the following
 
 And to change the name of application, go to YourProject\android\app\src\main\res\values, open strings.xml file and set your desired name against "name" variable.<br>
 Styling of all screens has been done in a seperate file names as Stylo.js.<br>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Screens:
 ## Loading Screen:

@@ -14,7 +14,7 @@ Currently, this application contains total 12 screen components with the followi
 <br><br><br><br>
 
 # Logo & Title:
-<img src="https://user-images.githubusercontent.com/63854449/102753096-6f7ede80-438c-11eb-9d0b-8f206b569932.JPG" align="right" width="300" height="480" >
+<img src="https://user-images.githubusercontent.com/63854449/102753096-6f7ede80-438c-11eb-9d0b-8f206b569932.JPG" align="left" width="300" height="480" >
 To set a particular Logo for your React Native application, follow the following steps.<br>
 <i>i-</i> Go to YourProject\android\app\src\main\res\mipmap-hdpi and paste your logo image here.<br>
 <i>ii-</i> Then go to android\app\src\main and open AndroidManifest.xml file & change the value of "android:icon" variable to your logo image name.
@@ -30,7 +30,7 @@ When application opens, a Loading screen appears for few seconds without any sta
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Login Screen
-<img src="https://user-images.githubusercontent.com/63854449/104359348-5d2e3580-5531-11eb-9ff9-04221b2fc402.JPG" align="right" width="300" height="480" >
+<img src="https://user-images.githubusercontent.com/63854449/104359348-5d2e3580-5531-11eb-9ff9-04221b2fc402.JPG" align="left" width="300" height="480" >
 After loading of few seconds, a Login screen appears for the user.<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -40,7 +40,7 @@ And if user is not already registered, then he/she can move towards the Registra
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Home Screen
-<img src="https://user-images.githubusercontent.com/63854449/102764029-554cfc80-439c-11eb-9fb4-5145b75bc83d.JPG" align="right" width="300" height="480" >
+<img src="https://user-images.githubusercontent.com/63854449/102764029-554cfc80-439c-11eb-9fb4-5145b75bc83d.JPG" align="left" width="300" height="480" >
 Home Screen is designed like this. A hamburger icon is placed in this screen's header to open a side menu. User can also directly move towards the Main Menu by clicking 'Main Menu' button to choose and order food items.<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -50,7 +50,7 @@ By clicking the hamburder icon in Home screen, a side drawer open like this from
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Main Menu
-<img src="https://user-images.githubusercontent.com/63854449/104377559-80181400-5548-11eb-8b9b-6555a9800604.JPG" align="right" width="300" height="480" >
+<img src="https://user-images.githubusercontent.com/63854449/104377559-80181400-5548-11eb-8b9b-6555a9800604.JPG" align="left" width="300" height="480" >
 And by clicking 'Main Menu' button in home screen, the main menu opens. Here Top Tabs navigation nested by stack navigation is used. Main Menu contains three categories scrollable food lists. It also contains a basket vector icon in its header to see your orders. Here order can be placed by clicking red colored 'Order Now' button.<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -60,6 +60,6 @@ When user clicks on 'Order Now' button of a food item, a Modal pops up and the b
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Cart
-<img src="https://user-images.githubusercontent.com/63854449/104382919-cf624280-5550-11eb-829d-df9abfd66b83.JPG" align="right" width="300" height="480" >
+<img src="https://user-images.githubusercontent.com/63854449/104382919-cf624280-5550-11eb-829d-df9abfd66b83.JPG" align="left" width="300" height="480" >
 After clicking 'Add to Cart' button, it passes three values to the basket screen using the Stack navigation.-
 As you can see, now the basket screen contains the Dish/Food item name, its price & the quantity selected by the user.<br>

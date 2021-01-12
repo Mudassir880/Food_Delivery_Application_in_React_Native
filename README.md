@@ -46,7 +46,7 @@ And by clicking 'Main Menu' button in home screen, the main menu opens. Here Top
 <img src="https://user-images.githubusercontent.com/63854449/104377559-80181400-5548-11eb-8b9b-6555a9800604.JPG" width="350" height="580" >
 
 When user clicks on 'Order Now' button of a food item, a Modal pops up and the background of modal fades or darkens.  Modal screen shows the name and price of that particular item and shows an option to choose the quantity of that item. After choosing quantity, user can click on 'Add to Cart' button to confirm his/her order.<br>
-<img src="https://user-images.githubusercontent.com/63854449/102750715-1f9e1880-4388-11eb-9ce3-55ce2ac9e53f.JPG" width="350" height="580" >
+<img src="https://user-images.githubusercontent.com/63854449/104377716-b6559380-5548-11eb-8c6a-93a333dee532.JPG" width="350" height="580" >
 
 After clicking 'Add to Cart' button, it passes three values to the basket screen using the Stack navigation.
 As you can see, now the basket screen contains the Dish/Food item name, its price & the quantity selected by the user.<br>

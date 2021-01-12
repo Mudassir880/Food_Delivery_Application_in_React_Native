@@ -1,12 +1,12 @@
 # Installation:
 Installed react native navigatioin, stack navigatioin, drawer navigation & top tab navigation in this project by running following commands.<br>
-  <i>i-</i> npm install @react-navigation/native @react-navigation/stack<br>
-  <i>ii-</i> npm install react-native-reanimated react-native-screens react-native-gesture-handler react-native-safe-area-context @react-native-community/masked-view<br>
-  <i>iii-</i> npm install @react-navigation/drawer<br>
-  <i>iv-</i> npm install @react-navigation/material-top-tabs react-native-tab-view<br>
+  #### i- npm install @react-navigation/native @react-navigation/stack<br>
+  #### ii- npm install react-native-reanimated react-native-screens react-native-gesture-handler react-native-safe-area-context @react-native-community/masked-view<br>
+  #### iii- npm install @react-navigation/drawer<br>
+  #### iv- npm install @react-navigation/material-top-tabs react-native-tab-view<br>
   
 And then installed Vector Icons by running this command<br>
-  <i>i-</i> npm install react-native-vector-icons
+  #### i- npm install react-native-vector-icons
 
 # Project Structure:
 Currently, this application contains total 12 screen components with the following folder structure.

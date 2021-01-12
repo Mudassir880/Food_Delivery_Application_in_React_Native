@@ -1,12 +1,15 @@
 # Installation:
 Installed react native navigatioin, stack navigatioin, drawer navigation & top tab navigation in this project by running following commands.<br>
-  #### i- npm install @react-navigation/native @react-navigation/stack<br>
-  #### ii- npm install react-native-reanimated react-native-screens react-native-gesture-handler react-native-safe-area-context @react-native-community/masked-view<br>
+  #### i-   npm install @react-navigation/native @react-navigation/stack<br>
+  #### ii-  npm install react-native-reanimated react-native-screens react-native-gesture-handler react-native-safe-area-context @react-native-community/masked-view<br>
   #### iii- npm install @react-navigation/drawer
-  #### iv- npm install @react-navigation/material-top-tabs react-native-tab-view<br><br>
+  #### iv-  npm install @react-navigation/bottom-tabs
+  #### v-   npm install @react-navigation/material-top-tabs react-native-tab-view<br><br>
   
 And then installed Vector Icons by running this command<br>
-  #### i- npm install react-native-vector-icons
+  #### v-   npm install @react-native-firebase/app
+  #### vi-  npm install react-native-vector-icons
+  #### vii- npm install @react-native-community/async-storage
   <br>
 
 # Project Structure:

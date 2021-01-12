@@ -18,14 +18,12 @@ Currently, this application contains total 12 screen components with the followi
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Logo & Title:
-
 <img src="https://user-images.githubusercontent.com/63854449/102753096-6f7ede80-438c-11eb-9d0b-8f206b569932.JPG" align="right" width="300" height="480" >
 <br>To set a particular Logo for your React Native application, go to<br><br>
  i- YourProject\android\app\src\main\res\mipmap-hdpi<br><br>
 and paste your logo image here. Then go to<br><br>
  ii- android\app\src\main and open AndroidManifest.xml<br><br>
 and change the value of "android:icon" variable to your logo image name.<br><br><br>
-
 And to change the name of application, go to <br><br>
  i- YourProject\android\app\src\main\res\values<br><br>
 open strings.xml file and set your desired name against "name" variable.<br><br>
@@ -35,17 +33,20 @@ Styling of all screens has been done in a seperate file names as Stylo.js.<br>
 # Screens:
 ## Loading Screen:
 <img src="https://user-images.githubusercontent.com/63854449/102749264-8a9a2000-4385-11eb-9221-13f44fae6f5d.JPG" align="left" width="320" height="480" >
-When application opens, a Loading screen appears for few seconds without any statsbar and then automatically navigates towards the home screen of the application.<br>
+When application opens, a Loading screen appears for few seconds without any statsbar and then automatically navigates towards the login section of the application.<br><br>
+Here, settimeout function is used to set a time period of few seconds for which screen appears.
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Login Screen:
 <img src="https://user-images.githubusercontent.com/63854449/104359348-5d2e3580-5531-11eb-9ff9-04221b2fc402.JPG" align="left" width="300" height="480" >
 After loading of few seconds, a Login screen appears for the user.<br>
+Here users can input their credentials like Email address & a password associated with it to verify their identity.
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Registration Screen:
 <img src="https://user-images.githubusercontent.com/63854449/104359657-c150f980-5531-11eb-9ab0-bf58cdfed4ce.JPG" align="left" width="300" height="480" >
 And if user is not already registered, then he/she can move towards the Registration Screen.<br>
+Users will have to fill Name, Email address & password fields.
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Home Screen:

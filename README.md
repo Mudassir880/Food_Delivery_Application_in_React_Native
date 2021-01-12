@@ -25,7 +25,7 @@ To set a particular Logo for your React Native application, follow the following
 
 And to change the name of application, go to YourProject\android\app\src\main\res\values, open strings.xml file and set your desired name against "name" variable.<br>
 Styling of all screens has been done in a seperate file names as Stylo.js.<br>
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Screens:
 ## Loading Screen:

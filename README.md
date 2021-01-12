@@ -59,6 +59,6 @@ When user clicks on 'Order Now' button of a food item, a Modal pops up and the b
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Cart
-<img src="https://user-images.githubusercontent.com/63854449/104378011-22d09280-5549-11eb-8e8d-5c9fb513651e.JPG" align="right" width="300" height="480" >
+<img src="https://user-images.githubusercontent.com/63854449/104382169-7b0a9300-554f-11eb-9d3f-fbf53b52fa3c.JPG" align="right" width="300" height="480" >
 After clicking 'Add to Cart' button, it passes three values to the basket screen using the Stack navigation.-
 As you can see, now the basket screen contains the Dish/Food item name, its price & the quantity selected by the user.<br>

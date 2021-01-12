@@ -6,7 +6,7 @@ Installed react native navigatioin, stack navigatioin, drawer navigation & top t
   #### iv-  npm install @react-navigation/bottom-tabs
   #### v-   npm install @react-navigation/material-top-tabs react-native-tab-view<br><br>
   
-And then installed Vector Icons by running this command<br>
+And then installed Firebase, Vector Icons & async-storage by following commands<br>
   #### v-   npm install @react-native-firebase/app
   #### vi-  npm install react-native-vector-icons
   #### vii- npm install @react-native-community/async-storage

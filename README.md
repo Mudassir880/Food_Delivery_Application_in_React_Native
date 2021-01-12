@@ -43,7 +43,7 @@ By clicking the hamburder icon in Home screen, a side drawer open like this from
 <img src="https://user-images.githubusercontent.com/63854449/102754635-119fc600-438f-11eb-8fef-f532c320b7bf.JPG" width="350" height="580" >
 
 And by clicking 'Main Menu' button in home screen, the main menu opens. Here Top Tabs navigation nested by stack navigation is used. Main Menu contains three categories scrollable food lists. It also contains a basket vector icon in its header to see your orders. Here order can be placed by clicking red colored 'Order Now' button.<br>
-<img src="https://user-images.githubusercontent.com/63854449/102750520-c46c2600-4387-11eb-90ac-21143697dff7.JPG" width="350" height="580" >
+<img src="https://user-images.githubusercontent.com/63854449/104377559-80181400-5548-11eb-8b9b-6555a9800604.JPG" width="350" height="580" >
 
 When user clicks on 'Order Now' button of a food item, a Modal pops up and the background of modal fades or darkens.  Modal screen shows the name and price of that particular item and shows an option to choose the quantity of that item. After choosing quantity, user can click on 'Add to Cart' button to confirm his/her order.<br>
 <img src="https://user-images.githubusercontent.com/63854449/102750715-1f9e1880-4388-11eb-9ce3-55ce2ac9e53f.JPG" width="350" height="580" >

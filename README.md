@@ -18,18 +18,18 @@ Currently, this application contains total 12 screen components with the followi
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Logo & Title:
-<img src="https://user-images.githubusercontent.com/63854449/102753096-6f7ede80-438c-11eb-9d0b-8f206b569932.JPG" align="left" width="300" height="480" >
-To set a particular Logo for your React Native application, follow the following steps.<br>
-To change application's logo, go to
-#### i- YourProject\android\app\src\main\res\mipmap-hdpi
-and paste your logo image here. And then go to 
-#### ii- android\app\src\main and open AndroidManifest.xml
-and change the value of "android:icon" variable to your logo image name.
+To set a particular Logo for your React Native application, go to<br>
+#### i- YourProject\android\app\src\main\res\mipmap-hdpi<br>
+and paste your logo image here. And then go to<br>
+#### ii- android\app\src\main and open AndroidManifest.xml<br>
+and change the value of "android:icon" variable to your logo image name.<br>
 
-And to change the name of application, go to 
+And to change the name of application, go to <br>
 #### i- YourProject\android\app\src\main\res\values
 open strings.xml file and set your desired name against "name" variable.<br>
 Styling of all screens has been done in a seperate file names as Stylo.js.<br>
+
+<img src="https://user-images.githubusercontent.com/63854449/102753096-6f7ede80-438c-11eb-9d0b-8f206b569932.JPG" align="left" width="300" height="480" >
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Screens:

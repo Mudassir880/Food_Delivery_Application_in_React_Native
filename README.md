@@ -9,9 +9,10 @@ And then installed Vector Icons by running this command<br>
   <i>i-</i> npm install react-native-vector-icons
 
 # Project Structure:
-<img src="https://user-images.githubusercontent.com/63854449/102757151-b40d7880-4392-11eb-8eb5-58c62299b77a.jpg" align="left" width="1000" height="380" >
 Currently, this application contains total 12 screen components with the following folder structure.
+<img src="https://user-images.githubusercontent.com/63854449/102757151-b40d7880-4392-11eb-8eb5-58c62299b77a.jpg" align="left" width="1000" height="380" >
 <br><br><br><br>
+
 # Logo & Title:
 <img src="https://user-images.githubusercontent.com/63854449/102753096-6f7ede80-438c-11eb-9d0b-8f206b569932.JPG" align="right" width="300" height="480" >
 To set a particular Logo for your React Native application, follow the following steps.<br>

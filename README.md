@@ -23,22 +23,22 @@ Styling of all screens has been done in a seperate file names as Stylo.js.<br>
 <br><br><br><br><br><br><br><br><br><br><br>
 
 # Screens:
-## Loading Screen
+#### Loading Screen
 <img src="https://user-images.githubusercontent.com/63854449/102749264-8a9a2000-4385-11eb-9221-13f44fae6f5d.JPG" align="left" width="320" height="480" >
 When application opens, a Loading screen appears for few seconds without any statsbar and then automatically navigates towards the home screen of the application.<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-## Login Screen
+#### Login Screen
 <img src="https://user-images.githubusercontent.com/63854449/104359348-5d2e3580-5531-11eb-9ff9-04221b2fc402.JPG" align="right" width="300" height="480" >
 After loading of few seconds, a Login screen appears for the user.<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-## Registration Screen
+#### Registration Screen
 <img src="https://user-images.githubusercontent.com/63854449/104359657-c150f980-5531-11eb-9ab0-bf58cdfed4ce.JPG" align="left" width="300" height="480" >
 And if user is not already registered, then he/she can move towards the Registration Screen.<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-## Home Screen
+#### Home Screen
 <img src="https://user-images.githubusercontent.com/63854449/102764029-554cfc80-439c-11eb-9fb4-5145b75bc83d.JPG" align="right" width="300" height="480" >
 Home Screen is designed like this. A hamburger icon is placed in this screen's header to open a side menu. User can also directly move towards the Main Menu by clicking 'Main Menu' button to choose and order food items.<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

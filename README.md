@@ -50,7 +50,8 @@ When user clicks on 'Order Now' button of a food item, a Modal pops up and the b
 
 After clicking 'Add to Cart' button, it passes three values to the basket screen using the Stack navigation.
 As you can see, now the basket screen contains the Dish/Food item name, its price & the quantity selected by the user.<br>
-<img src="https://user-images.githubusercontent.com/63854449/104364348-4ccd8900-5538-11eb-8b1c-56e028f1ae2f.JPG" width="350" height="580" >
+
+<img src="https://user-images.githubusercontent.com/63854449/104376639-1b0fee80-5547-11eb-818c-d8fcd2c5d693.JPG" width="350" height="580" >
 
 STILL WORKING ON THIS APP.
 SOON THE LOGIN AND REGISTRATION PAGES WILL ALSO BE INCLUDED AND BASKET SCREEN WILL BE DESIGNED AS WELL.

@@ -1,4 +1,4 @@
-# Installation:
+# Required Installations:
 Installed react native navigatioin, stack navigatioin, drawer navigation & top tab navigation in this project by running following commands.<br>
   #### i-   npm install @react-navigation/native @react-navigation/stack<br>
   #### ii-  npm install react-native-reanimated react-native-screens react-native-gesture-handler react-native-safe-area-context @react-native-community/masked-view<br>

@@ -15,7 +15,6 @@ And then installed Firebase, Vector Icons & async-storage by following commands<
 
 # Project Structure:
 Currently, this application contains total 12 screen components with the following folder structure.
-<img src="https://user-images.githubusercontent.com/63854449/102757151-b40d7880-4392-11eb-8eb5-58c62299b77a.jpg" align="left" width="1000" height="380" >
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 # Logo & Title:

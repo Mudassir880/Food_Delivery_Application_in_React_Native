@@ -41,7 +41,7 @@ Here, settimeout function is used to set a time period of few seconds for which 
 <img src="https://user-images.githubusercontent.com/63854449/104359348-5d2e3580-5531-11eb-9ff9-04221b2fc402.JPG" align="left" width="300" height="480" ><br><br>
 After loading of few seconds, a Login screen appears for the user.<br><br><br>
 Here users can input their credentials like Email address & a password<br><br>associated with it to verify their identity.
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Registration Screen:
 <img src="https://user-images.githubusercontent.com/63854449/104359657-c150f980-5531-11eb-9ab0-bf58cdfed4ce.JPG" align="left" width="300" height="480" ><br><br>

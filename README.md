@@ -52,7 +52,7 @@ Users will have to fill Name, Email address & password fields.
 ## Home Screen:
 <img src="https://user-images.githubusercontent.com/63854449/102764029-554cfc80-439c-11eb-9fb4-5145b75bc83d.JPG" align="left" width="300" height="480" ><br><br>
 Home Screen is designed like this. A hamburger icon is placed in this<br><br>screen's header to open a side menu.<br><br><br>User can also directly move towards the Main Menu by clicking 'Main Menu' <br><br>button to choose and order food items.<br>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Side Menu:
 <img src="https://user-images.githubusercontent.com/63854449/102754635-119fc600-438f-11eb-8fef-f532c320b7bf.JPG" align="left" width="300" height="480" ><br><br>

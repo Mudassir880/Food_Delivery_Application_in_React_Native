@@ -35,13 +35,13 @@ Styling of all screens has been done in a seperate file names as Stylo.js.<br>
 <img src="https://user-images.githubusercontent.com/63854449/102749264-8a9a2000-4385-11eb-9221-13f44fae6f5d.JPG" align="left" width="320" height="480" ><br><br>
 When application opens, a Loading screen appears for few seconds without any<br><br>statsbar and then automatically navigates towards the login section of the application.<br><br><br>
 Here, settimeout function is used to set a time period of few seconds for which screen<br><br>appears.
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Login Screen:
 <img src="https://user-images.githubusercontent.com/63854449/104359348-5d2e3580-5531-11eb-9ff9-04221b2fc402.JPG" align="left" width="300" height="480" ><br><br>
 After loading of few seconds, a Login screen appears for the user.<br><br><br>
 Here users can input their credentials like Email address & a password<br><br>associated with it to verify their identity.
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## Registration Screen:
 <img src="https://user-images.githubusercontent.com/63854449/104359657-c150f980-5531-11eb-9ab0-bf58cdfed4ce.JPG" align="left" width="300" height="480" ><br><br>

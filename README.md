@@ -32,35 +32,35 @@ Styling of all screens has been done in a seperate file names as Stylo.js.<br>
 
 # Screens:
 ## Loading Screen:
-<img src="https://user-images.githubusercontent.com/63854449/102749264-8a9a2000-4385-11eb-9221-13f44fae6f5d.JPG" align="left" width="320" height="480" ><br>
-When application opens, a Loading screen appears for few seconds without any statsbar and then automatically navigates towards the login section of the application.<br><br>
-Here, settimeout function is used to set a time period of few seconds for which screen appears.
+<img src="https://user-images.githubusercontent.com/63854449/102749264-8a9a2000-4385-11eb-9221-13f44fae6f5d.JPG" align="left" width="320" height="480" ><br><br>
+When application opens, a Loading screen appears for few seconds without any<br><br>statsbar and then automatically navigates towards the login section of the application.<br><br><br>
+Here, settimeout function is used to set a time period of few seconds for which screen<br><br>appears.
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Login Screen:
-<img src="https://user-images.githubusercontent.com/63854449/104359348-5d2e3580-5531-11eb-9ff9-04221b2fc402.JPG" align="left" width="300" height="480" ><br>
-After loading of few seconds, a Login screen appears for the user.<br>
-Here users can input their credentials like Email address & a password associated with it to verify their identity.
+<img src="https://user-images.githubusercontent.com/63854449/104359348-5d2e3580-5531-11eb-9ff9-04221b2fc402.JPG" align="left" width="300" height="480" ><br><br>
+After loading of few seconds, a Login screen appears for the user.<br><br><br>
+Here users can input their credentials like Email address & a password<br><br>associated with it to verify their identity.
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Registration Screen:
-<img src="https://user-images.githubusercontent.com/63854449/104359657-c150f980-5531-11eb-9ab0-bf58cdfed4ce.JPG" align="left" width="300" height="480" ><br>
-And if user is not already registered, then he/she can move towards the Registration Screen.<br>
+<img src="https://user-images.githubusercontent.com/63854449/104359657-c150f980-5531-11eb-9ab0-bf58cdfed4ce.JPG" align="left" width="300" height="480" ><br><br>
+And if user is not already registered, then he/she can move towards<br><br>the Registration Screen.<br><br><br>
 Users will have to fill Name, Email address & password fields.
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Home Screen:
-<img src="https://user-images.githubusercontent.com/63854449/102764029-554cfc80-439c-11eb-9fb4-5145b75bc83d.JPG" align="left" width="300" height="480" ><br>
-Home Screen is designed like this. A hamburger icon is placed in this screen's header to open a side menu. User can also directly move towards the Main Menu by clicking 'Main Menu' button to choose and order food items.<br>
+<img src="https://user-images.githubusercontent.com/63854449/102764029-554cfc80-439c-11eb-9fb4-5145b75bc83d.JPG" align="left" width="300" height="480" ><br><br>
+Home Screen is designed like this. A hamburger icon is placed in this<br><br>screen's header to open a side menu.<br><br><br>User can also directly move towards the Main Menu by clicking 'Main Menu' <br><br>button to choose and order food items.<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Side Menu:
-<img src="https://user-images.githubusercontent.com/63854449/102754635-119fc600-438f-11eb-8fef-f532c320b7bf.JPG" align="left" width="300" height="480" ><br>
-By clicking the hamburder icon in Home screen, a side drawer open like this from where you can choose various options to move.<br>
+<img src="https://user-images.githubusercontent.com/63854449/102754635-119fc600-438f-11eb-8fef-f532c320b7bf.JPG" align="left" width="300" height="480" ><br><br>
+By clicking the hamburder icon in Home screen, a side drawer open<br><br>like this from where you can choose various options to move.<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Main Menu:
-<img src="https://user-images.githubusercontent.com/63854449/104377559-80181400-5548-11eb-8b9b-6555a9800604.JPG" align="left" width="300" height="480" ><br>
+<img src="https://user-images.githubusercontent.com/63854449/104377559-80181400-5548-11eb-8b9b-6555a9800604.JPG" align="left" width="300" height="480" ><br><br>
 And by clicking 'Main Menu' button in home screen, the main menu opens. Here Top Tabs navigation nested by stack navigation is used. Main Menu contains three categories scrollable food lists. It also contains a basket vector icon in its header to see your orders. Here order can be placed by clicking red colored 'Order Now' button.<br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 

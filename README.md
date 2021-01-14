@@ -61,15 +61,15 @@ By clicking the hamburder icon in Home screen, a side drawer open<br><br>like th
 
 ## Main Menu:
 <img src="https://user-images.githubusercontent.com/63854449/104377559-80181400-5548-11eb-8b9b-6555a9800604.JPG" align="left" width="300" height="480" ><br><br>
-And by clicking 'Main Menu' button in home screen, the main menu opens.<br><br>Here Top Tabs navigation nested by stack navigation is used.<br><br>Main Menu contains three categories scrollable food lists.<br><br>It also contains a basket vector icon in its header to see your orders.<br><br>Here order can be placed by clicking red colored 'Order Now' button.<br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+And by clicking 'Main Menu' button in home screen, the main menu opens. Here Top Tabs navigation nested by stack navigation is used. Main Menu contains three categories scrollable food lists. It also contains a basket vector icon in its header to see your orders. Here order can be placed by clicking red colored 'Order Now' button.<br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Confirm Order:
 <img src="https://user-images.githubusercontent.com/63854449/104377716-b6559380-5548-11eb-8c6a-93a333dee532.JPG" align="left" width="300" height="480" ><br>
-When user clicks on 'Order Now' button of a food item,<br><br>a Modal pops up and the background of modal fades or darkens.<br><br>Modal screen shows the name and price of that particular item<br><br>and shows an option to choose the quantity of that item.<br><br>After choosing quantity, user can click on 'Add to Cart' button to confirm his/her order.<br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+When user clicks on 'Order Now' button of a food item, a Modal pops up and the background of modal fades or darkens.  Modal screen shows the name and price of that particular item and shows an option to choose the quantity of that item. After choosing quantity, user can click on 'Add to Cart' button to confirm his/her order.<br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## Cart:
 <img src="https://user-images.githubusercontent.com/63854449/104382919-cf624280-5550-11eb-829d-df9abfd66b83.JPG" align="left" width="300" height="480" ><br>
-After clicking 'Add to Cart' button, it passes three values to the basket screen<br><br>by using the Stack navigation.<br><br><br>
-As you can see, after confirmation of customer's order, now the basket screen contains the Food item's name,<br><br>its price & the quantity selected by the user.<br>
+After clicking 'Add to Cart' button, it passes three values to the basket screen using the Stack navigation.-
+As you can see, now the basket screen contains the Dish/Food item name, its price & the quantity selected by the user.<br>

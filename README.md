@@ -11,7 +11,7 @@ And then installed Firebase, Vector Icons & async-storage by following commands<
   #### v-   npm install @react-native-firebase/auth
   #### vi-  npm install react-native-vector-icons
   #### vii- npm install @react-native-community/async-storage
-  <br><br><br>
+  <br>
   
 # Logo & Title:
 <img src="https://user-images.githubusercontent.com/63854449/102753096-6f7ede80-438c-11eb-9d0b-8f206b569932.JPG" align="right" width="300" height="480" >

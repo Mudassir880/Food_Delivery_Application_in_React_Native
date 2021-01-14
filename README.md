@@ -63,7 +63,7 @@ And by clicking 'Main Menu' button in home screen, the main menu opens.<br><br>H
 ## Confirm Order:
 <img src="https://user-images.githubusercontent.com/63854449/104377716-b6559380-5548-11eb-8c6a-93a333dee532.JPG" align="left" width="300" height="480" ><br>
 When user clicks on 'Order Now' button of a food item,<br><br>a Modal pops up and the background of modal fades or darkens.<br><br>Modal screen shows the name and price of that particular item<br><br>and shows an option to choose the quantity of that item.<br><br>After choosing quantity, user can click on 'Add to Cart'<br><br>button to confirm his/her order.<br>
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ## Cart Screen:
 <img src="https://user-images.githubusercontent.com/63854449/104382919-cf624280-5550-11eb-829d-df9abfd66b83.JPG" align="left" width="300" height="480" ><br>
